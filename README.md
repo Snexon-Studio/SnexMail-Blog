@@ -19,6 +19,10 @@ This repository contains the blog content for Snexon Web Mail, a temporary email
 ├── snexon-web-mail-features.md
 ├── privacy-security-benefits.md
 ├── getting-started-with-snexon.md
+├── temporary-email-vs-permanent-email.md
+├── protecting-privacy-online-with-temporary-email.md
+├── email-security-best-practices-for-everyone.md
+├── online-shopping-without-sharing-personal-email.md
 ├── README.md
 └── LICENSE
 ```
