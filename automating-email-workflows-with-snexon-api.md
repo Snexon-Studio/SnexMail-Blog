@@ -33,7 +33,7 @@ Manual email management can become a bottleneck in development and testing proce
 
 ## Getting Started with the Snexon Web Mail API
 
-The Snexon Web Mail API is designed with developers in mind, offering a simple yet powerful RESTful interface that can be integrated into any application or workflow. For detailed information about authentication, endpoints, and request/response formats, please refer to our [API Documentation](https://www.snxmail.fun/api/docs).
+The Snexon Web Mail API is designed with developers in mind, offering a simple yet powerful RESTful interface that can be integrated into any application or workflow. For detailed information about authentication, endpoints, and request/response formats, please refer to our [API Documentation](https://www.snxmail.fun/docs/api).
 
 ### API Authentication
 Our API uses a flexible authentication system that balances security with ease of use:
@@ -50,7 +50,7 @@ The API provides several core endpoints for email automation:
 - **`/message`**: Get detailed content of a specific message
 - **`/domains`**: List available domains for email generation
 
-For detailed information about these endpoints, including request parameters and response formats, please consult our [API Documentation](https://www.snxmail.fun/api/docs).
+For detailed information about these endpoints, including request parameters and response formats, please consult our [API Documentation](https://www.snxmail.fun/docs/api).
 
 ## Generating Temporary Email Addresses Programmatically
 
@@ -115,6 +115,6 @@ The Snexon Web Mail API provides developers with powerful tools to automate emai
 
 Whether you're testing user registration flows, validating email delivery, or creating automated onboarding processes, our API offers the flexibility and reliability you need. With support for multiple generation modes, bulk operations, and seamless integration capabilities, Snexon Web Mail can become an essential part of your development toolkit.
 
-Ready to start automating your email workflows? Check out our comprehensive [API Documentation](https://www.snxmail.fun/api/docs) and get started with your first integration today. No complex setup required - just generate an API key and start building.
+Ready to start automating your email workflows? Check out our comprehensive [API Documentation](https://www.snxmail.fun/docs/api) and get started with your first integration today. No complex setup required - just generate an API key and start building.
 
-For more advanced use cases and detailed API specifications, visit our [developer documentation](https://www.snxmail.fun/api/docs) or join our beta program to get early access to new features and enhancements.
+For more advanced use cases and detailed API specifications, visit our [developer documentation](https://www.snxmail.fun/docs/api) or join our beta program to get early access to new features and enhancements.
