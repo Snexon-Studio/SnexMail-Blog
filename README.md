@@ -42,5 +42,4 @@ Content here...
 ```
 
 ## License
-
-This content is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This content is licensed under a proprietary license - see the [LICENSE](LICENSE) file for details.
