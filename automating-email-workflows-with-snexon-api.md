@@ -1,4 +1,4 @@
----
+[---
 title: "Automating Email Workflows with the Snexon Web Mail API"
 excerpt: "Learn how developers can use the Snexon Web Mail API to automate email generation and management for testing, development, and automation workflows."
 author: "Developer Team"
@@ -335,3 +335,4 @@ Whether you're testing user registration flows, validating email delivery, or cr
 Ready to start automating your email workflows? Check out our comprehensive API documentation and get started with your first integration today. No complex setup required - just generate an API key and start building.
 
 For more advanced use cases and detailed API specifications, visit our developer documentation or join our beta program to get early access to new features and enhancements.
+](https://github.com/Snexon-Studio/SnexMail-Blog/blob/main/automating-email-workflows-with-snexon-api.md)
