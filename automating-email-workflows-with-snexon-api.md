@@ -1,4 +1,4 @@
-[---
+---
 title: "Automating Email Workflows with the Snexon Web Mail API"
 excerpt: "Learn how developers can use the Snexon Web Mail API to automate email generation and management for testing, development, and automation workflows."
 author: "Developer Team"
