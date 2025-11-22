@@ -9,6 +9,14 @@ This repository contains the blog content for Snexon Web Mail, a temporary email
 3. [Exploring Snexon Web Mail Features: What Makes Our Service Unique](snexon-web-mail-features.md)
 4. [Privacy and Security Benefits of Snexon Web Mail](privacy-security-benefits.md)
 5. [Getting Started with Snexon Web Mail: Your First Steps to Digital Privacy](getting-started-with-snexon.md)
+6. [Temporary Email vs Permanent Email: When to Use Each Service](temporary-email-vs-permanent-email.md)
+7. [Protecting Your Privacy Online: How Temporary Email Services Can Help](protecting-privacy-online-with-temporary-email.md)
+8. [Email Security Best Practices: Protecting Yourself in the Digital Age](email-security-best-practices-for-everyone.md)
+9. [Online Shopping Without Sharing Your Personal Email: A Privacy Guide](online-shopping-without-sharing-personal-email.md)
+10. [Automating Email Workflows with the Snexon Web Mail API](automating-email-workflows-with-snexon-api.md)
+11. [Building Testing Tools with Temporary Email APIs](building-testing-tools-with-temporary-email-api.md)
+12. [API Integration Best Practices for Developers](api-integration-best-practices-for-developers.md)
+13. [Automating User Onboarding with Temporary Email Services](automating-user-onboarding-with-temporary-email.md)
 
 ## Repository Structure
 
@@ -23,6 +31,10 @@ This repository contains the blog content for Snexon Web Mail, a temporary email
 ├── protecting-privacy-online-with-temporary-email.md
 ├── email-security-best-practices-for-everyone.md
 ├── online-shopping-without-sharing-personal-email.md
+├── automating-email-workflows-with-snexon-api.md
+├── building-testing-tools-with-temporary-email-api.md
+├── api-integration-best-practices-for-developers.md
+├── automating-user-onboarding-with-temporary-email.md
 ├── README.md
 └── LICENSE
 ```
@@ -38,6 +50,7 @@ excerpt: "Brief excerpt for SEO and previews"
 author: "Author Name"
 date: "YYYY-MM-DD"
 tags: ["tag1", "tag2", "tag3"]
+readTime: "X min read"
 ---
 
 # Post Title
@@ -46,4 +59,5 @@ Content here...
 ```
 
 ## License
+
 This content is licensed under a proprietary license - see the [LICENSE](LICENSE) file for details.
